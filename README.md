@@ -1,4 +1,4 @@
 # demo
 my first git repository.
 <br>
-author- MAyank SIngh
+author- MAyank raj SIngh yadav
